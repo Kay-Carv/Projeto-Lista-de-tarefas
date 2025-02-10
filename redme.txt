@@ -20,13 +20,13 @@ ajudar a criar uma lista e remover tarefas de forma dinâmica
     ->Iniciar o git -ok
     ->Realiciar um commit na branch git -ok
     ->Criar uma branch chamada DEV -ok
-    ->Na brench dev iniciar o trablho de desenvolvimento
-    quando finalizar p projeot fazer um merge para master
+    ->Na brench dev iniciar o trablho de desenvolvimento -ok
+    quando finalizar p projeot fazer um merge para master -ok
     testar o projeto
 
     # O que vamos aprender ou revisar nesse projeto? #
         Entender a necessidade do cliente
-        Algoritimo
+        Algoritimo -ok
         Variável
         Array
         Função
@@ -37,7 +37,7 @@ ajudar a criar uma lista e remover tarefas de forma dinâmica
         DOM ( Document Object Model)
         Metodos JavaScript
         Validação
-        Eventos
+        Eventos -ok
 ----------------------------
     ->Repertório<-
 
