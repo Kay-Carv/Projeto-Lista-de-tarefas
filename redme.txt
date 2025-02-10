@@ -27,8 +27,9 @@ ajudar a criar uma lista e remover tarefas de forma dinâmica
     # O que vamos aprender ou revisar nesse projeto? #
         Entender a necessidade do cliente
         Algoritimo -ok
-        Variável
-        Array
+        boolran (boleandro) -ok
+        Variável -ok
+        Array -ok
         Função
         Arrow function
         Condicional com IF
@@ -48,4 +49,6 @@ ajudar a criar uma lista e remover tarefas de forma dinâmica
     [] = Array
     {} = Objeto
     () = Metódo
+    DOM = Ex: getElementById
+    
 ----------------------------
