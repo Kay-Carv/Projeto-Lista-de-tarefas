@@ -18,9 +18,9 @@ ajudar a criar uma lista e remover tarefas de forma dinâmica
     ->Iniciar o git bash -ok
     ->Configurar o git bash (caso necessário) -ok
     ->Iniciar o git -ok
-    ->Realiciar um commit na branch git
-    ->Criar uma branch chamada DEV
-    Na brench dev iniciar o trablho de desenvolvimento
+    ->Realiciar um commit na branch git -ok
+    ->Criar uma branch chamada DEV -ok
+    ->Na brench dev iniciar o trablho de desenvolvimento
     quando finalizar p projeot fazer um merge para master
     testar o projeto
 
@@ -43,4 +43,5 @@ ajudar a criar uma lista e remover tarefas de forma dinâmica
 
     Algoritimo: É uma série de sequência e instruções para a execução de um programa ou atividade
     IDE: Ferramenta para usar Ex:VScode
+    Figma: Serve para criação de projetos
 ----------------------------
