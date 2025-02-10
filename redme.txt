@@ -1,0 +1,46 @@
+Revisão de Java           10/02/2025
+Aula 1 sem2
+----------------------------
+
+    *SITUAÇÃO 1
+-->Um empresário precisa se organizar e gostaria de um sistema de tarefas que pudesse 
+ajudar a criar uma lista e remover tarefas de forma dinâmica
+
+    *Algoritimo:
+    ->Criar a pasta do projeto -ok
+    ->abrir a IDE -ok
+    ->Abrir a pasta na IDE -ok
+    ->Criar o HTML -ok
+    ->Criar a pasta de CSS -ok
+    -->Crir o arquivo CSS -ok
+    ->Criar a pasta de Js -ok
+    -->Criar o arquivo de Js -ok
+    ->Iniciar o git bash -ok
+    ->Configurar o git bash (caso necessário) -ok
+    ->Iniciar o git -ok
+    ->Realiciar um commit na branch git
+    ->Criar uma branch chamada DEV
+    Na brench dev iniciar o trablho de desenvolvimento
+    quando finalizar p projeot fazer um merge para master
+    testar o projeto
+
+    # O que vamos aprender ou revisar nesse projeto? #
+        Entender a necessidade do cliente
+        Algoritimo
+        Variável
+        Array
+        Função
+        Arrow function
+        Condicional com IF
+        Condicional com IF/ELSE
+        Repetição com FOR
+        DOM ( Document Object Model)
+        Metodos JavaScript
+        Validação
+        Eventos
+----------------------------
+    ->Repertório<-
+
+    Algoritimo: É uma série de sequência e instruções para a execução de um programa ou atividade
+    IDE: Ferramenta para usar Ex:VScode
+----------------------------
