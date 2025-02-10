@@ -29,4 +29,20 @@ function adicionarTarefa(){
         linhas.value="";
         listarTarefas();
     }
+    document.getElementById("task").focus()
+}
+
+function listarTarefas(){
+    let valor="";
+    for (let i=0; i<tarefas.length; i++){
+        valor += tarefas[i] + "<br>";
+    }
+    document.getElementById("lista").innerHTML = valor;
+}
+
+//Função que remove a tarefa
+
+function removerTarefa(){
+    tarefas.pop();  //pop = remover do html
+    listarTarefas();
 }

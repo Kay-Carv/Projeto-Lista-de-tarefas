@@ -22,7 +22,7 @@ ajudar a criar uma lista e remover tarefas de forma dinâmica
     ->Criar uma branch chamada DEV -ok
     ->Na brench dev iniciar o trablho de desenvolvimento -ok
     quando finalizar p projeot fazer um merge para master -ok
-    testar o projeto
+    testar o projeto -ok
 
     # O que vamos aprender ou revisar nesse projeto? #
         Entender a necessidade do cliente -ok
@@ -30,14 +30,14 @@ ajudar a criar uma lista e remover tarefas de forma dinâmica
         boolran (boleandro) -ok
         Variável -ok
         Array -ok
-        Função
-        Arrow function
-        Condicional com IF
-        Condicional com IF/ELSE
-        Repetição com FOR
-        DOM ( Document Object Model)
-        Metodos JavaScript
-        Validação
+        Função -ok
+        Arrow function -ok
+        Condicional com IF -ok
+        Condicional com IF/ELSE -ok
+        Repetição com FOR -ok
+        DOM ( Document Object Model) -ok
+        Metodos JavaScript -ok
+        Validação -ok
         Eventos -ok
 ----------------------------
     ->Repertório<-
