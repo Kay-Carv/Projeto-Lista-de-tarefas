@@ -25,7 +25,7 @@ ajudar a criar uma lista e remover tarefas de forma dinâmica
     testar o projeto
 
     # O que vamos aprender ou revisar nesse projeto? #
-        Entender a necessidade do cliente
+        Entender a necessidade do cliente -ok
         Algoritimo -ok
         boolran (boleandro) -ok
         Variável -ok
