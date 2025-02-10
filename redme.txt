@@ -44,4 +44,8 @@ ajudar a criar uma lista e remover tarefas de forma dinâmica
     Algoritimo: É uma série de sequência e instruções para a execução de um programa ou atividade
     IDE: Ferramenta para usar Ex:VScode
     Figma: Serve para criação de projetos
+    Array: É uma "lista" - É possível adicionar vários obejotos aqui dentro
+    [] = Array
+    {} = Objeto
+    () = Metódo
 ----------------------------
