@@ -1,6 +1,15 @@
 //Declarar variavel como array
 
-let tarefas =[]; //[] array
+//let tarefas =[]; //[] array
+let tarefas = JSON.parse(localStorage.getItem("tarefas")) || []; //Traz dados já cadastrados no localStorage ou cria lista vazia
+
+
+
+//Função para gravar os dados (As tarefas no local storage)
+
+function salvarTarefas(){
+    localStorage.setItem('tarefas',JSON.stringify(tarefas))
+}
 
 //Criar função que valida o preenchimento do campo caso esteja vazio
 
@@ -27,6 +36,7 @@ function adicionarTarefa(){
     } else{
         tarefas.push(linhas.value)
         linhas.value="";
+        salvarTarefas();
         listarTarefas();
     }
     document.getElementById("task").focus()
@@ -45,4 +55,9 @@ function listarTarefas(){
 function removerTarefa(){
     tarefas.pop();  //pop = remover do html
     listarTarefas();
+    salvarTarefas();
 }
+
+//Deixar visivel a lista no local storage
+//Inicialisa a lista e carrega todos os dados
+listarTarefas();

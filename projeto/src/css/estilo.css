@@ -1,0 +1,27 @@
+/*Reset básico*/
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: #fff;
+}
+
+h1{
+    color: rgb(55, 60, 131);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+}
+
+.abc input{
+    border-radius: 5px;
+    
+}
